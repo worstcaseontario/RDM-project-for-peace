@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-These are the main contributing guidelines for this repository. These have been copied from the Open Science MOOC contribution guidelines (https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md), and apply to the contents of this repository all hte same. The Open Science MOOC is based on a combination of two things:
+These are the main contributing guidelines for this repository. They have been copied from the Open Science MOOC contribution guidelines (https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md), and apply to the contents of this repository all the same. The Open Science MOOC is based on a combination of two things:
 
 * Invited experts as part of a core development team, led by one or two managers for each module.
 * Open participation, where anyone can contribute using the standard processes on GitHub.
