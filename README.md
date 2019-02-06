@@ -2,7 +2,8 @@
 
 <h2>Introduction</h2> 
 
-This repository was created to complete the Open Research Software and Open Source module on the Open Science MOOC. It has been deposited on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2558179.svg)](https://doi.org/10.5281/zenodo.2558179)
+This repository was created to complete the Open Research Software and Open Source module on the Open Science MOOC. It has been deposited on Zenodo: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2558179.svg)](https://doi.org/10.5281/zenodo.2558179)
 
 Please cite this output as: Michael Murphy (2019, Feb 6). GitHub repository for Open Science MOOC Module 5: First Formal Release (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.2558179 
 
